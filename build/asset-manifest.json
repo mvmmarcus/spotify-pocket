@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f4b01007.chunk.css",
+    "main.js": "/static/js/main.54b0d895.chunk.js",
+    "main.js.map": "/static/js/main.54b0d895.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.11507720.js",
+    "runtime-main.js.map": "/static/js/runtime-main.11507720.js.map",
+    "static/js/2.c0468c0e.chunk.js": "/static/js/2.c0468c0e.chunk.js",
+    "static/js/2.c0468c0e.chunk.js.map": "/static/js/2.c0468c0e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.359b2076a6484c7a834cd4273e6d4cff.js": "/precache-manifest.359b2076a6484c7a834cd4273e6d4cff.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f4b01007.chunk.css.map": "/static/css/main.f4b01007.chunk.css.map",
+    "static/js/2.c0468c0e.chunk.js.LICENSE.txt": "/static/js/2.c0468c0e.chunk.js.LICENSE.txt",
+    "static/media/app-intro-1.jpg": "/static/media/app-intro-1.60df5f78.jpg",
+    "static/media/app-intro-2.jpg": "/static/media/app-intro-2.ac2b9dd2.jpg",
+    "static/media/spotify-logo-green.eae11327.svg": "/static/media/spotify-logo-green.eae11327.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11507720.js",
+    "static/js/2.c0468c0e.chunk.js",
+    "static/css/main.f4b01007.chunk.css",
+    "static/js/main.54b0d895.chunk.js"
+  ]
+}
