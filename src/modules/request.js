@@ -1,9 +1,3 @@
-/**
- * Request Function
- * @param {string} url
- * @param {object} options
- * @returns {Promise<any>}
- */
 export const request = async (url, options = {}, ) => {
   if (!url) {
     throw new Error('O parâmetro URL é obrigatório');
@@ -22,12 +16,6 @@ export const request = async (url, options = {}, ) => {
   return await fetch(url, options).then(handleErrors)
 }
 
-/**
- *
- * @param {string} rawURL
- * @param {object} urlKey
- * @returns {*}
- */
 export const sanitizeUrl = (rawURL, urlKey) => {
   const property = Object.keys(urlKey)[0];
 
